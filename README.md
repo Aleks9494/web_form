@@ -1,7 +1,7 @@
 Для запуска проекта
-создать папку logs в корне проекта
-sudo docker-compose build
-sudo docker-compose up
+- создать папку logs в корне проекта
+- sudo docker-compose build
+- sudo docker-compose up
 
 Для проверки
 1)  Воспользоваться встроенным OpenApi (Swagger) для FastApi.
